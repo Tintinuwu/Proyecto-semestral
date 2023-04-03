@@ -1,12 +1,8 @@
-body {
-	/*font-family: sans-serif;
-	margin: 0;
-	padding: 0;
-	background-color: #fff(140, 23, 23);
-	height: 100vh;
-	justify-content: center;
-	align-items: center;*/
+
+html { 
+	margin: 10px;    
 }
+
 
 .contenedor3 {
 	background-color: #fff;
