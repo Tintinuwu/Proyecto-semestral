@@ -329,7 +329,7 @@ form input[type="submit"]:focus {
 
 @media only screen and (max-width: 600px) {
   div.example {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 
